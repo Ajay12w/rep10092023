@@ -1,4 +1,8 @@
-lne 1
-lne 2
-lne 3
-lne 4
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
